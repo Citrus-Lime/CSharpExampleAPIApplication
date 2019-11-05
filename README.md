@@ -1,4 +1,4 @@
-# CSharpExampleAPIApplication
+# C Sharp Example API Application
 This is a C# Example application which calls the CitrusLime API.
 We highly recommend you use your test group when interracting with this application.
 
