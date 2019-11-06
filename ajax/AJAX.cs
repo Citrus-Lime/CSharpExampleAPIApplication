@@ -27,7 +27,7 @@ namespace CitrusLime.CloudPOS.Api.CSharpSampleApplication.Ajax
 
             string appendOrQueryString = uri.Contains("?") ? "&": "?";
 
-            string pagedUrl = string.Format("{0}{1}PageNumber=", uri, appendOrQueryString);
+            string pagedUrl = string.Format("{0}{1}pageNumber=", uri, appendOrQueryString);
 
             string nextUrl = uri;
 
